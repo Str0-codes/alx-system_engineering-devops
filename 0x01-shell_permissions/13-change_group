@@ -1,2 +1,2 @@
 #!/bin/bash
-Chgrp school hello
+sudo chmod a+X*
