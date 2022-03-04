@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chgrp school hello
+=======
+sudo chmod a+X*
+>>>>>>> c6d4dae90f0d57c09740b6a937b515d29885d99a
