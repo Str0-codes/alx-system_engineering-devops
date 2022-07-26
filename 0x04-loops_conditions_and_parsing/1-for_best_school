@@ -1,1 +1,4 @@
 #!/usr/bin/env bash
+for (variable) in ()
+do 
+echo("Hello world")
