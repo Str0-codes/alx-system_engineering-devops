@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
-for (variable) in ()
-do 
-echo("Hello world")
+#!/bin/bash
+for i in {1..5}
+do
+   echo "$i"
+done
