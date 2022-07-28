@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# echos Best School ten times using while loop
+# echos Best School ten times using until command
 counter=0
 
 until [ $counter -gt 9 ]
