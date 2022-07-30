@@ -1,0 +1,5 @@
+
+#!/usr/bin/env bash
+# show active IP addresses
+# ipconfig | grep "inet addr" | cut -f2 -d " " | cut -f1 -d ":"
+ifconfig | grep 'inet ' | cut -d ':' -f2 | cut -d ' ' -f1
